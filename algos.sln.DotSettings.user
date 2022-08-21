@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9cc7918e_002D7426_002D41b3_002Da32e_002Df1399edf657c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::8588C81A-F6B5-4A55-980C-92561BE13B3F::net6.0::algos.test.SortAlgoTest.BubbleSort_ValidInput_SortInput&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Project Location="C:\Dev\Algorithms\algos\algos.test" Presentation="&amp;lt;algos.test&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;algos.test&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::8588C81A-F6B5-4A55-980C-92561BE13B3F::net6.0::algos.test.SortAlgoTest.SelectionSort_ValidInput_SortInput&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::8588C81A-F6B5-4A55-980C-92561BE13B3F::net6.0::algos.test.SortAlgoTest.InsertionSort_ValidInput_SortInput&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
